@@ -1,4 +1,3 @@
-﻿//<-- Desde já, agradeço pelo tempo e atenção empregados na avaliação deste Case!! -->//
 using Case_de_desenvolvimento;
 Console.WriteLine("Olá, você está no Case de Desenvolvimento de João Lucas Barreto dos santos!");
 // Coloquei para imprimir no console alguns informações para facilitar no entendimento das funcionalidades do Case.
